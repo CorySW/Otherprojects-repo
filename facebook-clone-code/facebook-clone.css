@@ -1,0 +1,180 @@
+.navbar {
+  background-color: #3B5998;
+  height: 100px;
+  box-shadow: 0 8px 6px -6px;
+}
+
+img.navbar-brand {
+  height: 100px;
+  width: 250px;
+  margin-left: 320px;
+}
+
+#Low {
+  color: rgba(255, 255, 255, 0.5);
+  padding-top: 60px;
+  margin-left: -200px;
+}
+
+.TopM {
+  margin-bottom: 65px;
+  color: whitesmoke;
+  margin-left: -180px;
+}
+
+#log {
+  margin-left: 70px;
+}
+
+#LowS {
+  color: rgba(255, 255, 255, 0.5);
+  margin-top: 60px;
+  margin-left: -190px;
+}
+
+#pass {
+  margin-left: -66px;
+}
+
+form {
+  padding-left: 745px;
+}
+
+input {
+  margin-left: -10px;
+}
+
+.TopPass {
+  padding-bottom: 50px;
+  color: whitesmoke;
+  margin-left: 80px;
+}
+
+#email {
+  margin-left: -105px;
+}
+
+#signtext {
+  color: #3B5998;
+  margin-top: 50px;
+  margin-left: 360px;
+  font-size: 1.5em;
+}
+
+#MainImg {
+  margin-left: 320px;
+  width: 800px;
+  height: 350px;
+}
+
+body {
+  background: linear-gradient(0deg, #d8dfea 50%, white 100%) no-repeat;
+  height: 100%;
+}
+
+#main {
+  background: linear-gradient(0deg, #d8dfea 30%, white 100%) no-repeat;
+  height: 100%;
+  width: 589px;
+  float: right;
+  margin-top: -130px;
+}
+
+h6 {
+  color: rgba(0, 0, 0, 0.7);
+  margin-top: 10px;
+}
+
+.smallee {
+  width: 155px;
+  margin-left: 5px;
+}
+
+#mainInput {
+  border-radius: 5px;
+  border: none;
+  border: solid 1px #ccc;
+  margin-left: 2px;
+  margin-top: 7px;
+}
+
+.biggee {
+  width: 361px;
+}
+
+#mainReg {
+  margin-top: 2.8%;
+}
+
+.small {
+  display: inline-block;
+  font-size: .6em;
+}
+
+select {
+  width: 85px;
+  height: 30px;
+}
+
+#gend {
+  float: left;
+  clear: none;
+  margin: 2px 0 0 2px;
+}
+
+#gend2 {
+  float: left;
+  clear: none;
+  margin: 2px 0 0 2px;
+}
+
+#Gend2 {
+  float: left;
+  clear: none;
+  display: block;
+  padding: 2px 1em 0 0;
+}
+
+#Gend {
+  float: left;
+  clear: none;
+  display: block;
+  padding: 2px 1em 0 0;
+}
+
+.smalls {
+  font-size: .6em;
+}
+
+#LastPart {
+  margin-top: 250px;
+  background: white;
+  width: 100%;
+}
+
+#Langs {
+  word-spacing: 30px;
+  margin-left: 385px;
+}
+
+#Attrs {
+  margin-left: 420px;
+  margin-bottom: -150px;
+}
+
+footer {
+  margin-top: 125px;
+  margin-left: 790px;
+}
+
+#hr2 {
+  margin-left: 20%;
+  width: 70%;
+  background-color: black;
+}
+
+hr {
+  margin-left: 0%;
+  width: 50%;
+  background-color: black;
+}
